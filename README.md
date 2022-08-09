@@ -1,3 +1,2 @@
-This is our first alx team project 
-Yosef Alemu and 
-Amsale Tsige
+This is the readme file for the "printf()" function 
+Authors: Yosef Alemu and Amsale Tsige
