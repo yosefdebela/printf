@@ -1,10 +1,9 @@
-#include "holberton.h"
+#include "main.h"
 #include <stdio.h>
 #include <stdlib.h>
 /**
  * print_char - writes the character c to stdout
  * @c: The character to print
- *
  * Return: 1.
  */
 int print_char(va_list c)
@@ -17,7 +16,6 @@ int print_char(va_list c)
 }
 /**
  * print_porcentage - %
- *
  * Return: 1.
  */
 int print_porcentage(void)
